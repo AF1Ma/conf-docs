@@ -47,4 +47,4 @@
 - **Репозиторий Backend**: https://github.com/AF1Ma/conf-backend
 - **Репозиторий Frontend**: https://github.com/AF1Ma/conf-frontend
 
-- ![ERD Diagram](BDschema.png)
+- ![ERD Diagram](DBschema.png)
