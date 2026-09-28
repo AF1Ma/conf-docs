@@ -1,4 +1,3 @@
-# conf-docs
 
 # Платформа управления IT-конференциями (Science & IT Conferences Platform)
 
