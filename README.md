@@ -9,7 +9,7 @@
 
 - **Репозиторий Backend**: [AF1Ma/conf-backend](https://github.com/AF1Ma/conf-backend) — серверная часть на ASP.NET Core Web API.
 - **Репозиторий Frontend**: [AF1Ma/conf-frontend](https://github.com/AF1Ma/conf-frontend) — клиентское SPA-приложение на React.
-- **Интерактивный макет в Figma**: [Ссылка на проект в Figma]([https://www.figma.com/](https://www.figma.com/site/klBoVR7JCELU3F3piR4pyP/Website?node-id=0-1&p=f&t=1e6HARAm0rBwhNOb-0).
+- **Интерактивный макет в Figma**: [Figma]([https://www.figma.com/](https://www.figma.com/site/klBoVR7JCELU3F3piR4pyP/Website?node-id=0-1&p=f&t=1e6HARAm0rBwhNOb-0).
 - **Проектная доска (Kanban)**: [Science Conferences Platform Board](https://github.com/users/AF1Ma/projects/1) — трекинг задач команды.
 
 ---
